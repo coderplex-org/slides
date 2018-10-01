@@ -1,5 +1,4 @@
-# slides
-Slides from our events
+Presentation slides from [Coderplex Events](https://coderplex.org)
 
 # 2018 
 
