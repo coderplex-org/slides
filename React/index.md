@@ -1,4 +1,4 @@
 # React Slides 
 <hr>
 
-## [React & Redux](https://coderplex.github.io/slides/react/react-and-redux.html)
+## [React & Redux](https://coderplex.org/slides/react/react-and-redux.html)
