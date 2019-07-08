@@ -1,4 +1,4 @@
 # Angular Slides
 <hr>
 
-### [Building Enterprise Monorepos using Nrwl/Nx](https://coderplex.org/Slides/Angular/Angular-Nx.html)
+### [Building Enterprise Monorepos using Nrwl/Nx](https://coderplex.org/slides/Angular/Angular-Nx.html)
