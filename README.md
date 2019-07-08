@@ -1,10 +1,12 @@
 Presentation slides from [Coderplex Events](https://coderplex.org)
 
 
-### [React Slides](https://coderplex.github.io/slides/React)
+### [React Slides](https://coderplex.org/slides/React)
 
-### [PWA Slides](https://coderplex.github.io/slides/PWA)
+### [PWA Slides](https://coderplex.org/slides/PWA)
 
-### [AWS Slides](https://coderplex.github.io/slides/aws/)
+### [AWS Slides](https://coderplex.org/slides/aws/)
 
-### [Docker Slides](https://coderplex.github.io/slides/Docker/)
+### [Docker Slides](https://coderplex.org/slides/Docker/)
+
+### [Angular Sldies](https://coderplex.org/slides/Angular)
